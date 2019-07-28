@@ -50,7 +50,7 @@
                 "sha1": "c8b000de3101f5e08c61b5e82f3e6d2ee09b5002",
                 "size": 174986,
                 "path": "net/minecraft/launcher/0.1/launcher-0.1.jar",
-                "url" : ""
+                "url" : "https://github.com/loginmen/launcher/raw/master/launcher-0.1.jar"
               }
           },
         "name"     : "net.minecraft:launcher:0.1"

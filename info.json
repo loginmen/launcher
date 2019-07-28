@@ -1,0 +1,76 @@
+{
+  "libraries": [
+      {
+        "downloads": {
+            "artifact": {
+                "sha1": "8dfb9facd0830a27b1b5f29f84593f0aeee7773b",
+                "size": 54423,
+                "path": "org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar",
+                "url" : "https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar"
+              }
+          },
+        "name"     : "org.apache.commons:commons-exec:1.3"
+      },
+      {
+        "downloads": {
+            "artifact": {
+                "sha1": "47a28ef1ed31eb182b44e15d49300dee5fadcf6a",
+                "size": 339669,
+                "path": "commons-codec/commons-codec/1.12/commons-codec-1.12.jar",
+                "url" : "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12.jar"
+              }
+          },
+        "name"     : "commons-codec:commons-codec:1.12"
+      },
+      {
+        "downloads": {
+            "artifact": {
+                "sha1": "f645ed69d595b24d4cf8b3fbb64cc505bede8829",
+                "size": 241622,
+                "path": "com/google/code/gson/gson/2.8.5/gson-2.8.5.jar",
+                "url" : "https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar"
+              }
+          },
+        "name"     : "com.google.code.gson:gson:2.8.5"
+      },
+      {
+        "downloads": {
+            "artifact": {
+                "sha1": "c586cd0b44cae8c0239a977277f99d08d751a482",
+                "size": 11719,
+                "path": "com/apple/AppleJavaExtensions/1.4/AppleJavaExtensions-1.4.jar",
+                "url" : "https://repo1.maven.org/maven2/com/apple/AppleJavaExtensions/1.4/AppleJavaExtensions-1.4.jar"
+              }
+          },
+        "name"     : "com.apple:AppleJavaExtensions:1.4"
+      },
+      {
+        "downloads": {
+            "artifact": {
+                "sha1": "c8b000de3101f5e08c61b5e82f3e6d2ee09b5002",
+                "size": 174986,
+                "path": "net/minecraft/launcher/0.1/launcher-0.1.jar",
+                "url" : ""
+              }
+          },
+        "name"     : "net.minecraft:launcher:0.1"
+      }
+    ],
+  "mainclass": "launcher.minecraft",
+  "java"     : {
+      "jre"    : {
+          "sha1"   : "a5a4268c71d57d336eed41641f624de7b2947ea6",
+          "size"   : 72181676,
+          "path"   : "jre-8u221-windows-i586.tar.gz",
+          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=239857_230deb18db3e4014bb8e3e8324f81b43",
+          "version": "1.8.0_221"
+        },
+      "jre-x64": {
+          "sha1"   : "a20586f276696ee760b3d39bfb6dd3d411574167",
+          "size"   : 78740601,
+          "path"   : "jre-8u221-windows-x64.tar.gz",
+          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=239859_230deb18db3e4014bb8e3e8324f81b43",
+          "version": "1.8.0_221"
+        }
+    }
+}

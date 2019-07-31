@@ -57,6 +57,7 @@
       }
     ],
   "mainclass": "launcher.minecraft",
+  "javaargs": "",
   "java"     : {
       "jre"    : {
           "sha1"   : "a5a4268c71d57d336eed41641f624de7b2947ea6",

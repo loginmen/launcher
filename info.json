@@ -47,8 +47,8 @@
       {
         "downloads": {
             "artifact": {
-                "sha1": "c8b000de3101f5e08c61b5e82f3e6d2ee09b5002",
-                "size": 174986,
+                "sha1": "4ab00bd4ad85b2d911bbaea690c5449b2d150018",
+                "size": 175167,
                 "path": "net/minecraft/launcher/0.1/launcher-0.1.jar",
                 "url" : "https://github.com/loginmen/launcher/raw/master/launcher-0.1.jar"
               }

@@ -14,10 +14,10 @@
       {
         "downloads": {
             "artifact": {
-                "sha1": "47a28ef1ed31eb182b44e15d49300dee5fadcf6a",
-                "size": 339669,
-                "path": "commons-codec/commons-codec/1.12/commons-codec-1.12.jar",
-                "url" : "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12.jar"
+                "sha1": "3f18e1aa31031d89db6f01ba05d501258ce69d2c",
+                "size": 344339,
+                "path": "commons-codec/commons-codec/1.13/commons-codec-1.13.jar",
+                "url" : "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13.jar"
               }
           },
         "name"     : "commons-codec:commons-codec:1.12"
@@ -25,10 +25,10 @@
       {
         "downloads": {
             "artifact": {
-                "sha1": "f645ed69d595b24d4cf8b3fbb64cc505bede8829",
-                "size": 241622,
-                "path": "com/google/code/gson/gson/2.8.5/gson-2.8.5.jar",
-                "url" : "https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar"
+                "sha1": "9180733b7df8542621dc12e21e87557e8c99b8cb",
+                "size": 240255,
+                "path": "com/google/code/gson/gson/2.8.6/gson-2.8.6.jar",
+                "url" : "https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar"
               }
           },
         "name"     : "com.google.code.gson:gson:2.8.5"
@@ -47,8 +47,8 @@
       {
         "downloads": {
             "artifact": {
-                "sha1": "05c4908642b14ba0b39799dd11404ea221e08b83",
-                "size": 403298,
+                "sha1": "ae04e24cc94f7923b6fbdb1aebbc3e3ae4a607bf",
+                "size": 351774,
                 "path": "net/minecraft/launcher/0.1/launcher-0.1.jar",
                 "url" : "https://github.com/loginmen/launcher/raw/master/launcher-0.1.jar"
               }
@@ -60,18 +60,18 @@
   "javaargs": "",
   "java"     : {
       "jre"    : {
-          "sha1"   : "a5a4268c71d57d336eed41641f624de7b2947ea6",
-          "size"   : 72181676,
-          "path"   : "jre-8u221-windows-i586.tar.gz",
-          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=239857_230deb18db3e4014bb8e3e8324f81b43",
-          "version": "1.8.0_221"
+          "sha1"   : "48ece2eb99f81749c8d1da21358a6b445adc2aea",
+          "size"   : 70660081,
+          "path"   : "jre-8u231-windows-i586.tar.gz",
+          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240727_5b13a193868b4bf28bcb45c792fce896",
+          "version": "1.8.0_231"
         },
       "jre-x64": {
-          "sha1"   : "a20586f276696ee760b3d39bfb6dd3d411574167",
-          "size"   : 78740601,
-          "path"   : "jre-8u221-windows-x64.tar.gz",
-          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=239859_230deb18db3e4014bb8e3e8324f81b43",
-          "version": "1.8.0_221"
+          "sha1"   : "f6e38d2cec3dd49fc46d8ed9735375d40fa6c509",
+          "size"   : 75968517,
+          "path"   : "jre-8u231-windows-x64.tar.gz",
+          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240729_5b13a193868b4bf28bcb45c792fce896",
+          "version": "1.8.0_231"
         }
     }
 }

@@ -47,8 +47,8 @@
       {
         "downloads": {
             "artifact": {
-                "sha1": "4f1294d7561372705755311e5d3f3f6b8514bbf4",
-                "size": 316368,
+                "sha1": "57e3e785008b527c0dcff13872923455d59d737e",
+                "size": 316500,
                 "path": "net/minecraft/launcher/0.1/launcher-0.1.jar",
                 "url" : "https://github.com/loginmen/launcher/raw/master/launcher-0.1.jar"
               }
@@ -60,18 +60,18 @@
   "javaargs": "",
   "java"     : {
       "jre"    : {
-          "sha1"   : "48ece2eb99f81749c8d1da21358a6b445adc2aea",
-          "size"   : 70660081,
-          "path"   : "jre-8u231-windows-i586.tar.gz",
-          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240727_5b13a193868b4bf28bcb45c792fce896",
-          "version": "1.8.0_231"
+          "sha1"   : "2b16a7d12e16dbe0fd11544256602d82b37b0b70",
+          "size"   : 70978032,
+          "path"   : "jre-8u241-windows-i586.tar.gz",
+          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241535_1f5b5a70bf22433b84d0e960903adac8",
+          "version": "1.8.0_241"
         },
       "jre-x64": {
-          "sha1"   : "f6e38d2cec3dd49fc46d8ed9735375d40fa6c509",
-          "size"   : 75968517,
-          "path"   : "jre-8u231-windows-x64.tar.gz",
-          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240729_5b13a193868b4bf28bcb45c792fce896",
-          "version": "1.8.0_231"
+          "sha1"   : "71c7ccfda7b1037eb9629f58b0490150c3f1a4b1",
+          "size"   : 76298720,
+          "path"   : "jre-8u241-windows-x64.tar.gz",
+          "url"    : "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241537_1f5b5a70bf22433b84d0e960903adac8",
+          "version": "1.8.0_241"
         }
     }
 }

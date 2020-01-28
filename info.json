@@ -20,7 +20,7 @@
                 "url" : "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13.jar"
               }
           },
-        "name"     : "commons-codec:commons-codec:1.12"
+        "name"     : "commons-codec:commons-codec:1.13"
       },
       {
         "downloads": {
@@ -31,7 +31,7 @@
                 "url" : "https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar"
               }
           },
-        "name"     : "com.google.code.gson:gson:2.8.5"
+        "name"     : "com.google.code.gson:gson:2.8.6"
       },
       {
         "downloads": {
@@ -43,6 +43,17 @@
               }
           },
         "name"     : "com.apple:AppleJavaExtensions:1.4"
+      },
+      {
+        "downloads": {
+            "artifact": {
+                "sha1": "5af35056b4d257e4b64b9e8069c0746e8b08629f",
+                "size": 489884,
+                "path": "log4j/log4j/1.2.17/log4j-1.2.17.jar",
+                "url" : "https://repo1.maven.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar"
+              }
+          },
+        "name"     : "log4j:log4j:1.2.17"
       },
       {
         "downloads": {
